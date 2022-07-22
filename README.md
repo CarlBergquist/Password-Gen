@@ -21,4 +21,4 @@ Navigate to my deployed repository, then click the button and follow the prompts
 
 ## Link to Application
 
-[Carl Bergquist-Password Generator](https://carlbergquist.github.io/code-refactor/)
+[Carl Bergquist-Password Generator](https://carlbergquist.github.io/Password-Gen/)
